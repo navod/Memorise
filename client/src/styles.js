@@ -1,5 +1,6 @@
 import { makeStyles } from "@material-ui/core/styles";
 import BackgroundImage from "./images/background.jpg";
+
 export default makeStyles(theme => ({
   appBar: {
     borderRadius: 15,
